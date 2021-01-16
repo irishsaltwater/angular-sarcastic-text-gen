@@ -9,8 +9,7 @@ import { Text_Object } from '../text-object';
 export class SarcasticTextComponent implements OnInit {
 
   sarcastic_text: Text_Object = {
-    inputText: "",
-    outputText: ""
+    inputText: ""
   }
 
   constructor() { }
